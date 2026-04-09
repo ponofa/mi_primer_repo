@@ -1,6 +1,9 @@
 ### Participantes
 
-- Maximiliano Bozzalla
+Maximiliano Bozzalla
+
 Tavo Tell
 
 Alejandro Pissotti
+
+Maximiliano Astor
