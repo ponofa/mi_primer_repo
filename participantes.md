@@ -1,5 +1,3 @@
 ### Participantes
-
-Tavo Tell
-
 Alejandro Pissotti
+Maximiliano Astor
